@@ -12,6 +12,9 @@
           <tentangPerusahanVuee />
         </section>
       </div>
+      <section class="section5" id="Kerjasama"> 
+        <Kerjasama/>
+      </section>
       <section class="section3" id="konsultasi"> 
         <formEmail/>
       </section>
@@ -33,6 +36,7 @@ import formEmail from '@/components/formEmail.vue';
 import footerr from '@/components/footer.vue';
 import artikelDanBeritaVue from '@/components/artikelDanBerita.vue';
 import headNav from '@/components/headerNav.vue'
+import Kerjasama from '@/components/kerjasama.vue'
 
 export default {
   name: 'HomeView',
@@ -42,7 +46,8 @@ export default {
     formEmail,
     footerr,
     artikelDanBeritaVue,
-    headNav
+    headNav,
+    Kerjasama
   },
   views: {
   }
@@ -128,6 +133,10 @@ export default {
 .section3>* {
   position: relative;
   /* Memastikan konten berada di atas overlay */
+}
+.section5{
+  /* margin-top: 100px; */
+  margin-bottom: 100px;
 }
 @media (max-width: 600px) {
   .section2{

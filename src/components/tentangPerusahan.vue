@@ -8,15 +8,8 @@
                             <div class="">
                                 <div class="TitleCore" data-aos="fade-right" data-aos-duration="1300"
                                     data-aos-easing="ease-in-sine">
-                                    <h1 class="title"><b>Kenali lebih dekat</b></h1>
-                                    <p class="titleisi">Spektra didirikan pada tahun 2022 sebagai perusahaan konsultan
-                                        yang
-                                        bergerak di bidang SLF,
-                                        PBG, IO/SLO,
-                                        dan Ijin Lingkungan. Manajemen PT Spektra berkomitmen untuk memberi solusi
-                                        praktis dan
-                                        menjadi mitra
-                                        kerja yang profesional.</p>
+                                    <h1 class="title"><b>Get to know it more closely</b></h1>
+                                    <p class="titleisi">Natanusa was established in 2022 as a consulting company engaged in SLF, PBG, IO/SLO, and Environmental Permits. PT Natanusa's management is committed to providing practical solutions and becoming a professional partner.</p>
                                 </div>
                                 <div class="handalDanProfesionall group" data-aos="fade-up" data-aos-duration="1000">
                                     <a href="#" class="card education">
@@ -25,20 +18,15 @@
                                             style="display: flex; z-index: 9999; justify-content: space-between; align-items: center; padding-left: 20px; padding-right: 20px; width: 100%; ">
                                             <span><i class="bi bi-emoji-smile"
                                                     style="font-size: 75px; font-weight: bold;"></i></span> <span
-                                                style="font-size: 50px; font-weight: bold;">01</span>
+                                                style="font-size: 50px; font-weight: bold;">1</span>
                                         </div>
                                         <p class=""
                                             style="text-align: left; margin-left: 20px;font-size: 25px; font-weight: bold;">
-                                            Kemitraan yang berkelanjutan
+                                            Reliable and professional
                                         </p>
                                         <p class="font-normal text-gray-700 dark:text-gray-400"
                                             style="text-align: left;  margin-left: 20px;">
-                                            Masalah Anda, juga masalah kami. PT
-                                            Spektra akan hadir sebagai mitra kerja yang amanah, bertanggung jawab, dan
-                                            selalu
-                                            hadir
-                                            saat
-                                            dibutuhkan</p>
+                                            Our team of experts and field experts are certified professionals who have at least 5 years of experience as a Building Technical Assessor</p>
                                     </a>
                                 </div>
                             </div>
@@ -49,21 +37,15 @@
                                             style="display: flex; z-index: 9999; justify-content: space-between; align-items: center; padding-left: 20px; padding-right: 20px; width: 100%; ">
                                             <span><i class="bi bi-person-fill-up"
                                                     style="font-size: 75px; font-weight: bold;"></i></span> <span
-                                                style="font-size: 50px; font-weight: bold;">02</span>
+                                                style="font-size: 50px; font-weight: bold;">2</span>
                                         </div>
                                         <p class=""
                                             style="text-align: left; margin-left: 20px;font-size: 25px; font-weight: bold;">
-                                            Handal dan profesional
+                                            Sustainable partnerships
                                         </p>
                                         <p class="font-normal text-gray-700 dark:text-gray-400"
                                             style="text-align: left;  margin-left: 20px;">
-                                            Tim tenaga ahli dan lapangan
-                                            kami
-                                            adalah
-                                            profesional tersertifikasi yang telah memiliki pengalaman sebagai Pengkaji
-                                            Teknis
-                                            Bangunan
-                                            Gedung setidaknya 5 tahun</p>
+                                            Your problem, also our problem. PT Natanusa will be present as a trustworthy, responsible partner, and always present when needed</p>
                                         <div class="overlay"></div>
                                     </a>
                                 </div>
@@ -74,19 +56,15 @@
                                             style="display: flex; z-index: 9999; justify-content: space-between; align-items: center; padding-left: 20px; padding-right: 20px; width: 100%; ">
                                             <span><i class="bi bi-lightbulb"
                                                     style="font-size: 75px; font-weight: bold;"></i></span> <span
-                                                style="font-size: 50px; font-weight: bold;">03</span>
+                                                style="font-size: 50px; font-weight: bold;">3</span>
                                         </div>
                                         <p class=" bi bi-lightbulb"
                                             style="text-align: left; margin-left: 20px;font-size: 25px; font-weight: bold;">
-                                            Solutif dan inovatif
+                                            Solution and innovative
                                         </p>
                                         <p class="font-normal text-gray-700 dark:text-gray-400"
                                             style="text-align: left;  margin-left: 20px;">
-                                            Di tengah disrupsi ini, kami
-                                            terus
-                                            menguprade sumber daya perusahaan untuk menjadi mitra yang andal dengan jam
-                                            terbang
-                                            tinggi</p>
+                                            In the midst of this disruption, we continue to devote our company's resources to becoming a reliable partner with high flying hours</p>
                                         <div class="overlay"></div>
                                     </a>
                                 </div>
@@ -98,15 +76,8 @@
         </div>
         <div class="appMobile">
             <div class="TitleCore" data-aos="fade-right" data-aos-duration="1300" data-aos-easing="ease-in-sine">
-                <h1 class="title"><b>Kenali lebih dekat</b></h1>
-                <p class="titleisi">Spektra didirikan pada tahun 2022 sebagai perusahaan konsultan
-                    yang
-                    bergerak di bidang SLF,
-                    PBG, IO/SLO,
-                    dan Ijin Lingkungan. Manajemen PT Spektra berkomitmen untuk memberi solusi
-                    praktis dan
-                    menjadi mitra
-                    kerja yang profesional.</p>
+                <h1 class="title"><b>Get to know it more closely</b></h1>
+                <p class="titleisi">Natanusa was established in 2022 as a consulting company engaged in SLF, PBG, IO/SLO, and Environmental Permits. PT Natanusa's management is committed to providing practical solutions and becoming a professional partner.</p>
             </div>
             <div class="handalDanProfesionall group" data-aos="fade-up" data-aos-duration="1000">
                 <a href="" class="card education">
@@ -114,19 +85,14 @@
                     <div
                         style="display: flex; z-index: 9999; justify-content: space-between; align-items: center; padding-left: 20px; padding-right: 20px; width: 100%; ">
                         <span><i class="bi bi-emoji-smile" style="font-size: 45px; font-weight: bold;"></i></span> <span
-                            style="font-size: 35px; font-weight: bold;">01</span>
+                            style="font-size: 35px; font-weight: bold;">1</span>
                     </div>
                     <p class="" style="text-align: left; margin-left: 20px;font-size: 20px; font-weight: bold;">
-                        Kemitraan yang berkelanjutan
+                        Reliable and professional
                     </p>
                     <p class="font-normal text-gray-700 dark:text-gray-400"
                         style="text-align: left;  margin-left: 20px;margin-right: 20px;">
-                        Masalah Anda, juga masalah kami. PT
-                        Spektra akan hadir sebagai mitra kerja yang amanah, bertanggung jawab, dan
-                        selalu
-                        hadir
-                        saat
-                        dibutuhkan</p>
+                        Our team of experts and field experts are certified professionals who have at least 5 years of experience as a Building Technical Assessor</p>
                 </a>
             </div>
             <div class="handalDanProfesionall" data-aos="fade-up" data-aos-duration="1000">
@@ -134,20 +100,14 @@
                     <div
                         style="display: flex; z-index: 9999; justify-content: space-between; align-items: center; padding-left: 20px; padding-right: 20px; width: 100%; ">
                         <span><i class="bi bi-person-fill-up" style="font-size: 45px; font-weight: bold;"></i></span>
-                        <span style="font-size: 35px; font-weight: bold;">02</span>
+                        <span style="font-size: 35px; font-weight: bold;">2</span>
                     </div>
                     <p class="" style="text-align: left; margin-left: 20px;font-size: 20px; font-weight: bold;">
-                        Handal dan profesional
+                        Sustainable partnerships
                     </p>
                     <p class="font-normal text-gray-700 dark:text-gray-400"
                         style="text-align: left;  margin-left: 20px;">
-                        Tim tenaga ahli dan lapangan
-                        kami
-                        adalah
-                        profesional tersertifikasi yang telah memiliki pengalaman sebagai Pengkaji
-                        Teknis
-                        Bangunan
-                        Gedung setidaknya 5 tahun</p>
+                        Your problem, also our problem. PT Natanusa will be present as a trustworthy, responsible partner, and always present when needed</p>
                     <div class="overlay"></div>
                 </a>
             </div>
@@ -156,19 +116,15 @@
                     <div
                         style="display: flex; z-index: 9999; justify-content: space-between; align-items: center; padding-left: 20px; padding-right: 20px; width: 100%; ">
                         <span><i class="bi bi-lightbulb" style="font-size: 45px; font-weight: bold;"></i></span> <span
-                            style="font-size: 35px; font-weight: bold;">03</span>
+                            style="font-size: 35px; font-weight: bold;">3</span>
                     </div>
                     <p class=" "
                         style="text-align: left; margin-left: 20px;font-size: 20px; font-weight: bold;">
-                        Solutif dan inovatif
+                        Solution and innovative
                     </p>
                     <p class="font-normal text-gray-700 dark:text-gray-400"
                         style="text-align: left;  margin-left: 20px;">
-                        Di tengah disrupsi ini, kami
-                        terus
-                        menguprade sumber daya perusahaan untuk menjadi mitra yang andal dengan jam
-                        terbang
-                        tinggi</p>
+                        In the midst of this disruption, we continue to devote our company's resources to becoming a reliable partner with high flying hours</p>
                     <div class="overlay"></div>
                 </a>
             </div>

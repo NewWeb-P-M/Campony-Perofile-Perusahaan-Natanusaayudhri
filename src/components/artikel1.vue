@@ -12,266 +12,154 @@
                     </svg>
                 </a>
                 <div class="titleartikell">
-                    <p>Pentingnya SLF untuk Bangunan Pabrik</p>
+                    <p>The Importance of SLF for Factory Buildings</p>
                 </div>
                 <div class="imgdivv">
                     <img class="imgartikel1" src="../assets/img/img1.jpg" alt="">
                 </div>
                 <div class="artikel">
                     <p style="margin-bottom: 20px; margin-top: 20px">
-                        Saat ini, pemerintah Indonesia mengharuskan bangunan gedung, khususnya pabrik untuk mengurus SLF
-                        atau sertifikat laik fungsi. SLF merupakan sertifikat yang diterbitkan oleh pemerintah daerah
-                        terhadap bangunan gedung yang telah selesai dibangun sesuai IMB dan telah memenuhi persyaratan
-                        kelaikan teknis sesuai fungsi bangunan berdasar hasil pemeriksaan dari tim ahli bangunan gedung
-                        atau
-                        jasa konsultan SLF.
+                        Currently, the Indonesian government requires buildings, especially factories, to take care of SLF or certificate of fitness for function. SLF is a certificate issued by the local government for buildings that have been completed according to the IMB and have met the technical feasibility requirements according to the function of the building based on the results of the inspection from the building expert team or SLF consultant services.
                     </p>
                     <p style="margin-bottom: 20px; ">
-                        Tujuan utama diterbitkannya sertifikat laik fungsi adalah sebagai persyaratan untuk dapat
-                        dilakukannya pemanfaatan bangunan gedung. Selain itu, adanya sertifikat laik fungsi dapat
-                        diartikan
-                        bahwa bangunan gedung yang Anda gunakan sudah teruji keandalannya.
+                        The main purpose of issuing a certificate of functional fitness is as a requirement for the use of buildings. In addition, the existence of a functional fitness certificate can be interpreted as the building you are using has been tested for reliability.
                     </p>
                     <p style="margin-bottom: 20px; ">
-                        Namun, sebelum kami membahas mengenai kewajiban pengurusan sertifikat laik fungsi untuk bangunan
-                        gedung pabrik, terdapat poin-poin penting yang harus Anda perhatikan. Untuk itu, simak artikel
-                        ini
-                        sampai tuntas, ya!
+                        However, before we discuss the obligation to manage a certificate of fitness for factory buildings, there are important points that you must pay attention to. For that, see this article to the end!
                     </p>
                     <p class="titleartikel2">
-                        Peraturan kewajiban pengurusan SLF
+                        Regulations on SLF management obligations
                     </p>
                     <p style="margin-bottom: 20px; ">
-                        Seperti yang telah dijelaskan sebelumnya, bahwa pengurusan sertifikat laik fungsi telah diatur
-                        oleh
-                        pemerintah Indonesia melalui peraturan perundang-undangan yang jelas. Adapun peraturan
-                        perundang-undangan mengenai kewajiban pengurusan sertifikat laik fungsi adalah sebagai berikut:
+                        As previously explained, the management of functional fitness certificates has been regulated by the Indonesian government through clear laws and regulations. The laws and regulations regarding the obligation to manage a certificate of fitness for function are as follows:
                     </p>
                     <p class=" space-y-1 list-decimal list-inside">
                     <ul class="space-y-4 text-gray-900 list-disc list-inside dark:text-gray-900">
                         <ol class="ps-5 mt-2 space-y-1 list-decimal list-inside">
-                            <li> Undang-Undang Republik Indonesia Nomor 28 Tahun 2002 tentang Bangunan Gedung.</li>
-                            <li>Peraturan Pemerintah (PP) Nomor 36 Tahun 2005 tentang Peraturan Pelaksanaan
-                                Undang-Undang
-                                Nomor 28
-                                Tahun 2002 tentang Bangunan Gedung.</li>
-                            <li>Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat Nomor 27/PRT/M/2018 tentang
-                                Sertifikat
-                                Laik Fungsi Bangunan Gedung.</li>
-                            <li> Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat RI Nomor 3 Tahun 2020 tentang
-                                Perubahan Atas
-                                Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat Nomor 27/PRT/M/2018 tentang
-                                Sertifikat
-                                Laik
-                                Fungsi Bangunan Gedung.</li>
+                            <li> Law of the Republic of Indonesia Number 28 of 2002 concerning Buildings.</li>
+                            <li>Government Regulation (PP) Number 36 of 2005 concerning Regulations for the Implementation of Law Number 28 of 2002 concerning Buildings.</li>
+                            <li>Regulation of the Minister of Public Works and Public Housing Number 27/PRT/M/2018 concerning Building Functional Fitness Certificates.</li>
+                            <li> Regulation of the Minister of Public Works and Public Housing of the Republic of Indonesia Number 3 of 2020 concerning Amendments to the Regulation of the Minister of Public Works and Public Housing Number 27/PRT/M/2018 concerning Building Functional Suitability Certificates.</li>
                         </ol>
                     </ul>
                     </p>
                     <p class="titleartikel3">
-                        Apa yang akan dinilai dalam pengurusan SLF pabrik?
+                        What will be assessed in the management of factory SLF?
                     </p>
-                    <p style="text-align: left; margin-bottom: 20px;">Supaya pemerintah daerah dapat menerbitkan SLF
-                        untuk
-                        pabrik Anda, terdapat dua persyaratan
-                        utama
-                        yang wajib dipenuhi. Pertama, adalah persyaratan administrasi. Kedua, adalah persyaratan teknis
-                        bangunan gedung.</p>
+                    <p style="text-align: left; margin-bottom: 20px;">In order for the local government to issue an SLF for your factory, there are two main requirements that must be met. First, are administrative requirements. Second, is the technical requirements of the building.</p>
                     <p class="" style="font-size: 22px;font-weight: bold;color: #3687aa;margin-top: 20px;">
-                        a. Persyaratan administrasi
+                        a. Administrative requirements
                     </p>
                     <p>
-                        Adapun persyaratan administrasi pengurusan SLF pabrik adalah sebagai berikut:
+                        The administrative requirements for factory SLF management are as follows:
                     </p>
                     <p>
                     <ul class="space-y-4 text-gray-900 list-disc list-inside dark:text-gray-900">
                         <ol class="ps-5 mt-2 space-y-1 list-decimal list-inside">
-                            <li> Bukti status hak atas tanah atau surat perjanjian pemanfaatan apabila pemilik bangunan
-                                gedung
-                                bukan
-                                pemegang hak atas tanah.</li>
-                            <li> Status kepemilikan bangunan gedung yang dilengkapi dengan KTP pemilik.</li>
-                            <li>Dokumen IMB (Izin Mendirikan Bangunan) atau PBG (Persertujuan Bangunan Gedung).</li>
-                            <li> Surat permohonan kelaikan fungsi bangunan.
-                                Gambar as built drawing.</li>
-                            <li> Rekomendasi teknis dari perangkat daerah terkait sistem proteksi kebakaran, keselamatan
-                                dan
-                                kesehatan kerja (K3), instalasi listrik, dan pengendalian dampak lingkungan.</li>
-                            <li> Dokumen hasil pengujian material.</li>
-                            <li> Dokumen hasil pengetesan dan pengujian (testing and commissioning) dalam bentuk daftar
-                                simak
-                                terhadap komponen arsitektur, struktur, utilitas/instalasi, dan tata ruang luar bangunan
-                                gedung.</li>
-                            <li> Manual pengoperasian, pemeliharaan dan perawatan bangunan gedung, serta peralatan dan
-                                perlengkapan
-                                yang difungsikan.</li>
+                            <li>Proof of the status of land rights or a utilization agreement if the owner of the building is not the holder of land rights.</li>
+                            <li>Status kepemilikan bangunan gedung yang dilengkapi dengan KTP pemilik.The ownership status of the building is equipped with the owner's ID card.</li>
+                            <li>IMB (Building Permit) or PBG (Building Permit) document.</li>
+                            <li>Application letter for building function feasibility.</li>
+                            <li>Gambar as built drawing.</li>
+                            <li>Technical recommendations from regional apparatus related to fire protection systems, occupational safety and health (K3), electrical installations, and environmental impact control.</li>
+                            <li>Material test result documents.</li>
+                            <li> The document of the results of testing and commissioning in the form of a list of architectural components, structures, utilities/installations, and the layout of the building's exterior space.</li>
+                            <li> Operation manual, maintenance and maintenance of building buildings, as well as functional equipment and equipment.</li>
                         </ol>
                     </ul>
                     </p>
                     <p class="titleartikel4">
-                        b. Persyaratan teknis
+                        b. Technical requirements
                     </p>
                     <p>
-                        Adapun persyaratan teknis bangunan gedung yang akan diminta oleh pemerintah daerah saat Anda
-                        mengurus penerbitan sertifikat laik fungsi pabrik adalah sebagai berikut:
+                        The technical requirements for building buildings that will be requested by the local government when you take care of the issuance of a factory functional fitness certificate are as follows:
                     </p>
                     <p>
                     <ul class="space-y-4 text-gray-900 list-disc list-inside dark:text-gray-900">
                         <ol class="ps-5 mt-2 space-y-1 list-decimal list-inside">
-                            <li>Persyaratan tata bangunan, yang meliputi persyaratan peruntukan bangunan gedung,
-                                persyaratan intensitas bangunan gedung, persyaratan arsitektur bangunan gedung, dan
-                                persyaratan pengendalian dampak lingkungan.</li>
-                            <li> Persyaratan keandalan, yang meliputi persyaratan keselamatan, persyaratan kesehatan,
-                                persyaratan kenyamanan, dan persyaratan kemudahan.</li>
+                            <li>Building planning requirements, which include building designation requirements, building intensity requirements, building architectural requirements, and environmental impact control requirements.</li>
+                            <li>Reliability requirements, which include safety requirements, health requirements, comfort requirements, and convenience requirements.</li>
                         </ol>
                     </ul>
                     </p>
                     <p>
-                        Selanjutnya, adapun tata cara pemeriksaan kelaikan fungsi bangunan gedung yang biasanya
-                        dilakukan
-                        oleh konsultan SLF adalah sebagai berikut:
+                        Furthermore, the procedures for checking the feasibility of building functions that are usually carried out by SLF consultants are as follows:
                     </p>
                     <p>
                     <ul class="space-y-4 text-gray-900 list-disc list-inside dark:text-gray-900">
                         <ol class="ps-5 mt-2 space-y-1 list-decimal list-inside">
-                            <li>Proses pemeriksaan kelengkapan dokumen.</li>
-                            <li>Proses analisis dan evaluasi.</li>
-                            <li> Proses penyusunan laporan pemeriksaan kelaikan fungsi bangunan gedung.</li>
+                            <li>The process of checking the completeness of documents.</li>
+                            <li>Analysis and evaluation process.</li>
+                            <li>The process of preparing a report on the feasibility of building functions.</li>
                         </ol>
                     </ul>
                     </p>
                     <p>
-                        Biasanya, proses analisis dan evaluasi yang diperlukan oleh tim ahli bangunan gedung dari
-                        konsultan
-                        SLF memakan waktu cukup lama, tergantung luas dan fungsi bangunan gedung. Dalam proses analisis
-                        dan
-                        evaluasi ini, terdapat setidaknya 6 (enam) tahapan. Adapun penjelasannya adalah sebagai berikut:
+                        Usually, the analysis and evaluation process required by the team of building experts from SLF consultants takes quite a long time, depending on the size and function of the building. In this analysis and evaluation process, there are at least 6 (six) stages. The explanation is as follows:
                     </p>
                     <p>
                     <ul class="space-y-4 text-gray-900 list-disc list-inside dark:text-gray-900">
                         <ol class="ps-5 mt-2 space-y-1 list-decimal list-inside">
-                            <li> Konsultan SLF atau pengkaji teknis akan mengkaji kesesuaian spesifikasi dan mutu
-                                pelaksanaan
-                                konstruksi setiap tahap pekerjaan terhadap dokumen rencana teknis bangunan gedung
-                                sebagai
-                                lampiran
-                                dokumen IMB (izin mendirikan bangunan).</li>
-                            <li> Selanjutnya, mengkaji kesesuaian gambar terbangun atau as built drawings bangunan
-                                gedung. Jika
-                                Anda
-                                belum memiliki as built drawings, Anda dapat berkonsultasi langsung melalui konsultan
-                                SLF yang
-                                dilibatkan.</li>
-                            <li>Mengkaji pemenuhan rekomendasi teknis dari perangkat daerah terkait.</li>
-                            <li> Mengkaji kesesuaian hasil pengujian material terhadap spesifikasi teknis dalam dokumen
-                                rencana
-                                teknis bangunan gedung.</li>
-                            <li> Mengkaji kesesuaian hasil pengetesan dan pengujian peralatan/perlengkapan bangunan
-                                gedung.</li>
-                            <li>Terakhir, konsultan SLF akan mengkaji kesesuaian spesifikasi teknis dalam manual
-                                pengoperasian,
-                                pemeliharaan, dan perawatan bangunan gedung.</li>
+                            <li> SLF consultants or technical assessors will assess the suitability of the specifications and quality of construction implementation at each stage of work to the technical plan document of the building as an attachment to the IMB document (building permit).</li>
+                            <li>Furthermore, examine the suitability of built drawings or as built drawings of buildings. If you do not have as built drawings, you can consult directly through the SLF consultants involved.</li>
+                            <li>Reviewing the fulfillment of technical recommendations from the relevant regional apparatus.</li>
+                            <li>Assess the conformity of material test results to technical specifications in the building technical plan document.</li>
+                            <li>Assess the suitability of the results of testing and testing of building equipment/equipment.</li>
+                            <li>Finally, the SLF consultant will review the conformity of the technical specifications in the building's operation, maintenance, and maintenance manual.</li>
                         </ol>
                     </ul>
                     </p>
                     <p style="text-align: left; margin-bottom: 20px;">
-                        Adapun laporan pemeriksaan kelaikan fungsi bangunan gedung yang disusun oleh tim ahli bangunan
-                        gedung akan memuat daftar simak hasil pemeriksaan kelaikan fungsi bangunan gedung. Jika hasil
-                        laporan pemeriksaan menyatakan bahwa bangunan gedung laik fungsi, konsultan SLF akan memberikan
-                        surat pernyataan kelaikan fungsi bangunan gedung kepada Anda.
+                        The building functional feasibility inspection report prepared by a team of building experts will contain a list of the results of the building functional feasibility inspection. If the results of the inspection report state that the building is functional, the SLF consultant will provide you with a statement of the building's functional feasibility.
                     </p>
                     <p>
-                        Namun, jika hasil pemeriksaan kelaikan fungsi menyatakan bahwa bangunan gedung tidak laik
-                        fungsi,
-                        konsultan SLF akan memberikan rekomendasi perbaikan sesuai dengan dokumen rencana teknis
-                        bangunan
-                        gedung.
+                        However, if the results of the functional feasibility check state that the building is not functional, the SLF consultant will provide recommendations for repairs in accordance with the technical plan document of the building.
                     </p>
                     <p class="titleartikel5">
-                        Definisi pabrik menurut peraturan perundang-undangan
+                        Definition of factory according to laws and regulations
                     </p>
                     <p style="text-align: left; margin-bottom: 20px;">
-                        Pabrik merupakan suatu bangunan industri besar yang digunakan oleh para pekerja untuk mengolah
-                        barang atau mengawasi proses kerja mesin dari satu produk menjadi produk lain sehingga memiliki
-                        nilai tambah. Di Indonesia sendiri, istilah pabrik juga kerap disebut sebagai bangunan industri.
+                        A factory is a large industrial building used by workers to process goods or supervise the working process of machines from one product to another so that it has added value. In Indonesia itself, the term factory is also often referred to as an industrial building.
                     </p>
                     <p style="text-align: left; margin-bottom: 20px;">
-                        Melengkapi definisi di atas, sesuai Peraturan Menteri Perindustrian RI Nomor 64/M-ID/PER/7/2016,
-                        adapun klasifikasi industri di Indonesia dapat dilihat berdasar jumlah tenaga kerja dan nilai
-                        investasinya.
+                        Complementing the definition above, according to the Regulation of the Minister of Industry of the Republic of Indonesia Number 64/M-ID/PER/7/2016, the classification of industries in Indonesia can be seen based on the number of workers and the value of investment.
                     </p>
                     <p style="text-align: left; margin-bottom: 20px;">
-                        Industri kecil, merupakan industri yang mempekerjakan paling banyak 19 (sembilan belas) orang
-                        tenaga
-                        kerja dan memiliki nilai investasi kurang dari 1 (satu) miliar rupiah (tidak termasuk tanah dan
-                        bangunan tempat usaha).
-                        Industri menengah, merupakan industri yang mempekerjakan paling banyak 19 (sembilan belas) orang
-                        tenaga kerja dan memiliki nilai investasi paling sedikit 1 (satu) miliar rupiah atau
-                        mempekerjakan
-                        paling sedikit 20 (dua puluh) orang tenaga kerja dan memiliki nilai investasi paling banyak 15
-                        (lima
-                        belas) miliar rupiah.
-                        Industri besar, merupakan industri yang mempekerjakan paling sedikit 20 (dua puluh) orang tenaga
-                        kerja dan memiliki nilai investasi lebih dari 15 (lima belas) miliar rupiah.
+                       1. Small industry, is an industry that employs a maximum of 19 (nineteen) workers and has an investment value of less than 1 (one) billion rupiah (excluding land and buildings where the business is located). <br>
+                        2. Medium industry, is an industry that employs a maximum of 19 (nineteen) workers and has an investment value of at least 1 (one) billion rupiah or employs at least 20 (twenty) workers and has an investment value of at most 15 (fifteen) billion rupiah.<br>
+                        3. Large industries are industries that employ at least 20 (twenty) workers and have an investment value of more than 15 (fifteen) billion rupiah.<br>
                     </p>
                     <img style="text-align: left; margin-bottom: 20px; width: 100%; height: 500px; object-fit: cover;border-radius: 10px;"
                         src="../assets/img/SLF-pabrik.jpg" alt="">
                     <p>
-                        Salah satu pentingnya SLF untuk bangunan gedung adalah memastikan bahwa setiap mesin kerja dapat
-                        beroperasi dengan normal dan dilakukan pemeliharaan secara rutin
+                        One of the importance of SLF for buildings is to ensure that every work machine can operate normally and is maintained regularly
                     </p>
                     <p class="titleartikel6">
-                        Mengapa SLF untuk pabrik penting?
+                        Why is SLF for factories important?
                     </p>
                     <p style="text-align: left; margin-bottom: 20px;">
-                        Kenapa SLF penting? Makin tua usia pabrik dan mesin-mesinnya, makin sering pula permasalahan
-                        yang
-                        akan muncul. Sebagai contoh, rapuhnya dinding karena usia pabrik yang makin tua, tidak
-                        berjalannya
-                        sistem dan alarm kebakaran saat terjadi kobaran api di ruang kerja, atau masalah lainnya yang
-                        kerap
-                        muncul tanpa bisa diprediksi sebelumnya.
+                        Why is SLF important? The older the factory and its machines, the more often problems will arise. For example, the fragility of the walls due to the aging of the factory, the non-functioning of the system and fire alarm when there is a blaze in the workspace, or other problems that often arise without being predictable.
                     </p>
                     <p style="text-align: left; margin-bottom: 20px;">
-                        Untuk menekan dan meminimalkan kecelakaan kerja yang dapat memakan korban jiwa, pemerintah
-                        mengadakan pengaturan dan pembinaan penyelenggaraan bangunan gedung melalui pengurusan SLF
-                        pabrik.
-                        Pengaturan yang tertuang di dalam peraturan perundang-undangan tersebut menjelaskan bahwa tolok
-                        ukur
-                        keandalan bangunan gedung yang digunakan sebagai pabrik dapat dilihat dari adanya SLF atau
-                        sertifikat laik fungsi.
+                        To suppress and minimize work accidents that can take lives, the government organizes and fosters the implementation of building buildings through the management of factory SLFs. The regulation contained in the legislation explains that the benchmark for the reliability of buildings used as factories can be seen from the existence of SLF or certificate of functional fitness.
                     </p>
                     <p style="text-align: left; margin-bottom: 20px;">
-                        Adapun masa berlaku sertifikat laik fungsi untuk pabrik pun sudah ditetapakan, yakni selama 5
-                        (lima
-                        tahun). Dengan begitu, sebelum masa berlaku SLF pabrik habis, Anda harus mengajukan perpanjangan
-                        sertifikat laik fungsi dengan melengkapi beberapa dokumen yang telah dipersyaratkan.
+                        The validity period of the certificate of functional fitness for the factory has also been determined, namely for 5 (five years). That way, before the validity period of the factory SLF expires, you must apply for an extension of the certificate of functional fitness by completing several documents that have been required.
                     </p>
                     <p style="text-align: left; margin-bottom: 20px;">
-                        Di sisi lain, terdapat beberapa manfaat ketika sebuah pabrik yang masih aktif beroperasi
-                        memiliki
-                        sertifikat laik fungsi. Adapun manfaat SLF untuk pabrik adalah sebagai berikut:
+                        On the other hand, there are several benefits when a factory that is still actively operating has a certificate of functional fitness. The benefits of SLF for factories are as follows:
                     </p>
                     <p style="text-align: left; margin-bottom: 20px;">
                     <ul class="space-y-4 text-gray-900 list-disc list-inside dark:text-gray-900">
                         <ol class="ps-5 mt-2 space-y-1 list-decimal list-inside">
-                            <li> Mewujudkan bangunan pabrik yang laik secara fungsi dan memiliki tata bangunan gedung
-                                yang serasi
-                                dan
-                                selaras dengan lingkungannya.</li>
-                            <li> Mewujudkan ketertiban dalam penyelenggaraan bangunan pabrik agar terjamin keandalannya,
-                                baik
-                                dari
-                                aspek keselamatan, kesehatan, kenyamanan, maupun kemudahan.</li>
-                            <li> Mewujudkan kepastian hukum dalam penyelenggaran bangunan gedung.</li>
+                            <li> Realizing a factory building that is functionally fit and has a building layout that is harmonious and in harmony with the environment.</li>
+                            <li>Realizing order in the implementation of factory buildings to ensure reliability, both in terms of safety, health, comfort, and convenience.</li>
+                            <li>Realizing legal certainty in the implementation of building buildings.</li>
                         </ol>
                     </ul>
                     </p>
                     <p style="text-align: left; margin-bottom: 20px;">
-                        Nah, itu dia penjelasan mengenai pentingnya SLF atau sertifikat laik fungsi untuk bangunan
-                        pabrik
-                        yang masih aktif beroperasi. Jika Anda kesulitan mencari penyedia jasa SLF di kota Anda,
-                        menggunakan
-                        jasa kami adalah pilihan yang tepat.
+                        So, that's an explanation of the importance of SLF or certificate of functional fitness for factory buildings that are still actively operating. If you are having trouble finding an SLF service provider in your city, using our services is the right choice.
                     </p>
                 </div>
             </div>

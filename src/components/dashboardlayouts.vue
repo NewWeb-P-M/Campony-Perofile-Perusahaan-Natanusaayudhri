@@ -7,14 +7,18 @@
     >
         <div class="isitext">
             <div class="text1">
-                <p>Konsultan SLF terpercaya</p>
+                <p>Trusted SLF Consultant</p>
             </div>
             <div class="text2">
-                <p>Mencari jasa pengkaji teknis dan konsultan SLF profesional?</p>
+                <p>Looking for professional SLF technical assessors and consultants?</p>
             </div>
             <div class="text3">
-                <p>PT Spektra Wahana Bahtera adalah solusi yang tepat untuk menjadi mitra dalam mengurus segala ijin
-                    bangunan gedung, baik PBG, SLF, ijin lingkungan, rekomendasi K3, dan lainnya</p>
+                <p>PT Natanusa Wahana Bahtera is the right solution to be a partner in taking care of all building permits, both PBG, SLF, environmental permits, K3 recommendations, and others</p>
+            </div>
+            <div style="margin-top: 20px;">
+                <a href="https://wa.me/6281285611255?text=Halo,%20Natanusa" class="focus:outline-none text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800">WhatsApp 
+                    <i class="bi bi-whatsapp"></i>
+                </a>
             </div>
         </div>
     </div>
